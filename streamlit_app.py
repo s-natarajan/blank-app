@@ -4,7 +4,7 @@ import numpy as np
 
 st.title("🎈 My new app")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Let's start hacking our project to help FBCs and the traditional network."
 )
 st.write("Hello, *World!* :sunglasses:")
 
